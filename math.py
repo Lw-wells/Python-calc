@@ -17,7 +17,7 @@ elif operator == "/":
     result = number / number2 
 
 else :
-    print("Invalid opertaor")
+    print("Invalid operator!!!")
 
 
 
